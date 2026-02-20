@@ -105,7 +105,3 @@ This project was developed as part of an Object-Oriented Programming course to p
 - Clean architecture principles
 - Logical system decomposition
 - Core OOP design practices
-
-Ana-Antonia Duțu  
-Computer Engineering Student – FILS, UNSTPB  
-GitHub: https://github.com/anto987678
